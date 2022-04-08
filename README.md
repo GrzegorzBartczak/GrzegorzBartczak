@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrzegorzBartczak
 - 👀 I’m interested in IT technology.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node, React.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Node and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
